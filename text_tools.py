@@ -56,20 +56,7 @@ class  Utils:
            return "Weak"
 utils = Utils(numbers=[6,7,8,3,10,15], text="madam", password="Sayat3625")
 
-print(utils.add(5,3))
-print(utils.subtract(10,5))
-print(utils.multiply(4,7))
-print(utils.divide(20,4))
-print(utils.divide(20,0))
-print(utils.is_even(6))
-print(utils.is_even(7))
-print(utils.is_odd(5))
-print(utils.is_odd(8))
-print(utils.biggest())
-print(utils.smallest())
-print(utils.reverse_text())
-print(utils.is_palindrome())
-print(utils.check_password())
+
 
 
          
